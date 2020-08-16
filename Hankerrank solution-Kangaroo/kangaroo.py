@@ -22,7 +22,7 @@ def eq(k1,k2,v1,v2):
         
     
 if __name__ == '__main__':
-    #fptr = open(os.environ['OUTPUT_PATH'], 'w')
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
     x1V1X2V2 = input().split()
 
