@@ -1,2 +1,2 @@
 # Hankerrank-Solutions
-Hankerrank solutions in python
+Hankerrank problem solving solutions in python
